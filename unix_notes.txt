@@ -44,4 +44,10 @@ pipe ( | ) - Pass the output of one command to another for further processing.
 > - Redirect output from a command to a file on disk. overwrites existing content
 >> - Append output from a command to an existing file on disk.
 mv source target - moves source file to the target location
+rm file - removes a given file
+rm -rf folder - recursively delete a folder and all files.
+nano filename - open file in nano, a text editor that runs in the terminal.
+chmod options filename - change the read, write, executre permissions
+  of a given file or folder.
+grep string filname - looks for a string inside the file.
 
