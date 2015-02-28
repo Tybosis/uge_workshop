@@ -1,0 +1,47 @@
+why unix?
+more stable
+faster
+more compatible
+works well with networking multiple computers
+
+What is Unix?
+multi-process operating system
+multi user
+developed in Bell Labs in the 60’s, released in 1973
+Most popular: Linux & Darwin(MAC OSX)
+
+Unix Features
+Almost all data is stored as plaintext files
+easier for developers to look at data and understand what’s going on
+nested subdirectories(folders within folders within folders)
+composed of many small programs
+input-output redirection
+Unix philosophy: The Unix philosophy emphasizes building short, simple, clear, modular, and extensible code that can be easily maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
+
+Kernel
+sits between programs and the machine.   Allocates memory, directs different actions to different devices.
+Kernel is safe from hackers, programs live in protected environment, password required when the kernel does anything.
+
+Shell
+Provides the user interface to the kernel
+Originally just a command line interpreter
+Later redesigned to be a graphical user interface
+Programmers use Shell to refer to the command line
+The Shell is kind of line a turtle shell to the kernel
+
+REPL(read, evaluate, print, loop)
+ - interactive computer programming environment
+
+
+absolute path - starts with a slash
+relative path - does not start with a slash
+
+history - displays history of all commands typed into terminal
+ll - fish shorthand for ls -l
+la - shorthand for ls -a
+less - display contents of a file, one screen at a time
+pipe ( | ) - Pass the output of one command to another for further processing.
+> - Redirect output from a command to a file on disk. overwrites existing content
+>> - Append output from a command to an existing file on disk.
+mv source target - moves source file to the target location
+
