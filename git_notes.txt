@@ -7,7 +7,7 @@ green check in the prompt means that the staging area is clean.
 git log - history of the commits.
 git commit - commit changes to HEAD.
 git ll - git log in a ls -l style format
-HEAD and master are labels that point at the most recent commit.
+HEAD - label that points at the most recent commit.
 branches are just labels attached to commits.
 
 5 parts of a commit: message, id, timestamp, changes, signature
