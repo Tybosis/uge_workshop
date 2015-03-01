@@ -14,4 +14,6 @@ branches are just labels attached to commits.
 5 parts of a commit: message, id, timestamp, changes, signature
 
 the git cycle: modify, add, commit, repeat!
+<<<<<<< HEAD
 -u : do this once for a push - ties my git push command to the master branch.
+
