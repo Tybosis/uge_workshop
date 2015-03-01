@@ -13,3 +13,6 @@ branches are just labels attached to commits.
 5 parts of a commit: message, id, timestamp, changes, signature
 
 the git cycle: modify, add, commit, repeat!
+
+git checkout branch name - switch branches to the branch name specified.
+  aka move branch label to the newest commit.
