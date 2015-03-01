@@ -1,6 +1,7 @@
 git notes
 
-git init - creates a staging area. red x in the prompt means that the staging area is ‘dirty’
+git init - creates a staging area. red x in the prompt means
+  that the staging area is ‘dirty’
 git status - gives you a message about the staging area.
 git add - moves files into the staging area.
 green check in the prompt means that the staging area is clean.
